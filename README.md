@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hello World! I am Taebin, a Korean Canadian Developer. :)<br><br>🔭 I’m currently working on a personal website<br>👯 I’m looking to collaborate on any cool projects!<br>💬 Ask me about anything
+## Hello World! I am Taebin, a Korean Canadian Developer. :)<br><br>
+🔭 I’m currently working on a personal website<br>
+👯 I’m looking to collaborate on any cool projects!<br>
+💬 Ask me about anything
 
 
 ## 🌐 Socials:
