@@ -1,8 +1,17 @@
 # 💫 About Me:
-## Hello World! I am Taebin, a Korean Canadian Developer. :)<br><br>
-🔭 I’m currently working on a personal website<br>
-👯 I’m looking to collaborate on any cool projects!<br>
-💬 Ask me about anything
+## Hello, World! 👋 I'm Taebin!  
+### A 3rd-year Mathematics student at UBC 🚀  
+
+I have a passion for combining mathematics and computer science to solve real-world problems and build impactful projects.  
+
+- 🔭 I’m currently working on a personal website to showcase my projects and ideas.  
+- 👯 I’m open to collaborating on innovative and exciting projects!  
+- 🌱 I’m always eager to learn new tools and technologies—currently diving deeper into **Python**, **React**, and **Java**.  
+- 💬 Feel free to ask me about mathematics, programming, or even my latest favorite coding challenge.  
+
+### Fun Facts:
+- ✨ I enjoy taking Photos of sunrise / sunset and going solo Camping!
+- 🍳 I'm passionate about expanding my **culinary techniques** and love sharing meals with friends and family.  
 
 
 ## 🌐 Socials:
