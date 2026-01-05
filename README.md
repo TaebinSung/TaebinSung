@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello, World! 👋 I'm Taebin!  
-### A 3rd-year Mathematics student at UBC 🚀  
+### A 4th-year Mathematics student at UBC 🚀  
 
 I have a passion for combining mathematics and computer science to solve real-world problems and build impactful projects.  
 
